@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moyinajayi, I'm a data scientist
 - 👀 I’m interested in Machine Learning, Data engineering and Artificial intelligence
-- I have prior experiece in QA Engineering with strong Selenium and Automation skills,  API testing and Performance testing with Jmeter
-- 🌱 I’m currently learning LLMs, Deep learning, improving my ML & Stat skills.
+- - 🌱 I’m currently learning LLMs, Deep learning, improving my ML & Stat skills.
 - 💞️ I’m looking to collaborate on Data Science and machine learning projects
 - 📫 How to reach me : moyin.ajayi@gmail.com
 
