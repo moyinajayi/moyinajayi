@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @moyinajayi, a data scientist with exeperience in machine learning and predictive analytics
-- 👀 I’m interested in Machine Learning, Data engineering and Artificial intelligence projects (NLP, LLMs, AI )
 - - 🌱 I’m currently sharpening my skills in Deep learning, with emphasis on NLP, Image classification and speech synthesis
-    - 💞️ I’m looking to collaborate on Data Science and machine learning projects
-- 📫 How to reach me : moyin.ajayi@gmail.com
+
 
 <!---
 moyinajayi/moyinajayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Moyin</h1>
+<h1 align="center">Hi 👋, I'm Moyin Ajayi </h1>
 <h3 align="center">Data scientist with over 3 years experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moyinajayi&label=Profile%20views&color=0e75b6&style=flat" alt="moyinajayi" /> </p>
@@ -17,11 +15,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/moyinaj" target="blank"><img src="https://img.shields.io/twitter/follow/moyinaj?logo=twitter&style=for-the-badge" alt="moyinaj" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning, Predictive Analytics and Artificial Intelligence projects**
 
-- 🌱 I’m currently learning **Deep learning, LLMs**
+- 🌱 I’m currently sharpening my skills in **Deep learning, LLMs, NLP, Image classification and Speech synthesis**
 
-- 👯 I’m looking to collaborate on **Data science and Analytics**
+- 👯 I’m looking to collaborate on **Machine Learning and Analytics**
+- 📫 How to reach me : **moyin.ajayi@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
