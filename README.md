@@ -7,7 +7,7 @@ moyinajayi/moyinajayi is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Moyin Ajayi </h1>
-<h3 align="center">Data scientist with over 3 years experience</h3>
+<h3 align="center">Data science, machine learning, and business intelligence with over 5 years experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moyinajayi&label=Profile%20views&color=0e75b6&style=flat" alt="moyinajayi" /> </p>
 
