@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @moyinajayi, a data scientist with exeperience in machine learning and predictive analytics
-- - 🌱 I’m currently sharpening my skills in Deep learning, with emphasis on NLP, Image classification and speech synthesis
-
 
 <!---
 moyinajayi/moyinajayi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
