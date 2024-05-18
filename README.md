@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/moyinaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moyinaj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/moyinajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moyinajayi" height="30" width="40" /></a>
 <a href="https://kaggle.com/moyinajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moyinajayi" height="30" width="40" /></a>
-<a href="https://medium.com/@moyinajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moyinajayi" height="30" width="40" /></a>
+<a href="https://medium.com/@moyin.ajayi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moyinajayi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
