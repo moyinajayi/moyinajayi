@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently sharpening my skills in **Deep learning, LLMs, NLP, Image classification and Speech synthesis**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Analytics**
+- 👯 I’m looking to collaborate on **Machine Learning, Data Engineering and Advanced Analytics**
 - 📫 How to reach me : **moyin.ajayi@gmail.com**
 
 
