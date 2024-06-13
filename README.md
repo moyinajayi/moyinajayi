@@ -19,6 +19,30 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Engineering and Advanced Analytics**
 - 📫 How to reach me : **moyin.ajayi@gmail.com**
+- 😄 Pronouns: She / Her
+
+## Certifications and Credentials
+[Azure Certified Data Engineer](https://learn.microsoft.com/en-us/users/moyinoluwaajayi-0004/credentials/1f0af8048f965a15) 
+[Azure Data fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/MoyinoluwaAjayi-0004/DA51459B05EEC2FA?sharingId=BC5AA1687CE05813)
+[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/MoyinoluwaAjayi-0004/credentials/D2FA99FB327B7AB6) 
+And also here: 
+
+You can find my professional certifications in [Credly](https://www.credly.com/users/moyinoluwa-i-ajayi)
+
+## Find below links to some of my projects and repositories 👇.
+
+### Machine Learning Engineering Projects
+
+### Data Science & Analytics Projects
+
+
+<!--- ### Data Engineering and ETL Projects --->
+<!--- ### Business intelligence Dashboards --->
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
