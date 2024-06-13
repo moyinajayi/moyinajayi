@@ -32,8 +32,12 @@ You can find my professional certifications in [Credly](https://www.credly.com/u
 ## Find below links to some of my projects and repositories 👇.
 
 ### Machine Learning Engineering Projects
+1. [Income Prediction and Classification](https://github.com/moyinajayi/Income_prediction_xgboost)
+2. [Retail customer behaviour segmentation](https://github.com/moyinajayi/Retail_customer_Clustering)
+3. [Electric Vehicle Analysis](https://github.com/moyinajayi/ElectronicVehicleAnalysis)
 
 ### Data Science & Analytics Projects
+
 
 
 <!--- ### Data Engineering and ETL Projects --->
