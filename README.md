@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/moyinaj" target="blank"><img src="https://img.shields.io/twitter/follow/moyinaj?logo=twitter&style=for-the-badge" alt="moyinaj" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Predictive Analytics and Artificial Intelligence projects**
-
+- - 🔭 I have builts ML solutions for **fraud prediction, anomanly detection, recommender systems, Customer behaviour segmentation, time series forecasting**
 - 🌱 I’m currently sharpening my skills in **Deep learning, LLMs, NLP, Image classification and Speech synthesis**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Data Engineering and Advanced Analytics**
